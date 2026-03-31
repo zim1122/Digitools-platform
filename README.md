@@ -1,1 +1,72 @@
-⚡ Digital Tools | The Next-Gen MarketplaceDigital Tools holo ekta high-performance, aesthetically pleasing digital product platform. AI tools theke shuru kore design assets porjonto—shob kichu ektai smooth interface e paben. Built with React, focused on UX.🚀 Core HighlightsPixel-Perfect Design: Figma-inspired layout ja dekhte jemon shundor, cholteo temon fast.Smart Catalog: Dynamic JSON architecture diye toiri, jekhane tags (Best Seller, New) ebong pricing automatic update hoy.Fluid Cart Experience: Real-time item tracking ebong instant price calculation system.Adaptive UI: Mobile, Tablet, ba Desktop—shob device ei interface thakbe flawless.🛠️ Tech Stack & ToolsCategoryTechnology UsedCore FrameworkReact.js (Component-based architecture)Styling EngineTailwind CSS + DaisyUI (Utility-first design)IconographyLucide React (Minimal & Scalable)Feedback SystemReact-Toastify (Context-aware notifications)Data FlowES6+ JavaScript & JSON Logic💎 Signature Features1. Dynamic MarketplaceEkta 3-column grid system jekhane prottekta product card-er sathe thakche customized badges ebong detailed feature lists. Data-driven render hoy bole eita manage kora khub e shohoj.2. Advanced State Management (Cart)Navbar-e thaka live counter user-ke protikhon update rakhe. Cart view-te gele items add/remove kora ebong checkout porjonto full flow-ta seamlessly kaj kore.3. Interactive UXSingle-page application (SPA) er shob subidha ekhane ache. Kono page reload charai Product view theke Cart view-te switch kora jay, sathe thake smooth toast alerts.Design Goal: "Simplicity is the ultimate sophistication." Digital Tools-er muddhye amra pro-level productivity tools-ke ekta shohoj ebong intuitive environment-e niye eshechi.
+# 🚀 Digital Tools - Premium Marketplace Template
+
+<div align="center">
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+**A modern, aesthetic, and fully functional digital products marketplace.**
+*Built for speed, styled for elegance, and optimized for developers.*
+
+[Live Demo](#) | [Report Bug](https://github.com/yourusername/digital-tools/issues) | [Request Feature](https://github.com/yourusername/digital-tools/issues)
+
+</div>
+
+---
+
+## 📖 Overview
+
+**Digital Tools** holo ekta high-end React-based landing page ebong e-commerce interface. Ekhane user-ra AI tools, design assets, ebong software templates browse ebong purchase korte parbe. 
+
+Project-tir main focus chilo **Pixel-Perfect UI** ebong ekta smooth **User Experience (UX)** prodan kora, ja modern Figma mockups theke inspired.
+
+---
+
+## ✨ Key Features
+
+### 🛍️ Dynamic Product Catalog
+- **Smart Cards:** Prottekta product card-e dynamic "Popular" ba "Best Seller" tags thake.
+- **JSON Driven:** Shob product data ekta central JSON architecture theke handle kora hoy, ja scalability baray.
+- **Responsive Grid:** 3-column elegant layout ja mobile theke desktop shob device-e perfect.
+
+### 🛒 Advanced Cart System
+- **Real-time Tracking:** Navbar-e thaka cart icon-ti instant product count update kore.
+- **Dynamic Calculation:** Cart view-te total price automatic calculate hoy.
+- **Seamless Actions:** Add to cart, remove, ebong checkout-er jonno fluid flow thake.
+
+### 🎨 Premium UI/UX
+- **Smooth Navigation:** Product view ebong Cart view-er muddhye instantaneous toggle.
+- **Visual Feedback:** React-Toastify use kore prottekta action-er jonno (Add/Remove) shundor notification system.
+
+---
+
+## 🛠️ Built With
+
+| Tool/Library | Purpose |
+| :--- | :--- |
+| **React.js** | Library for building the UI |
+| **Tailwind CSS** | Utility-first styling for speed |
+| **DaisyUI** | Modern UI component library |
+| **Lucide React** | Minimalist and clean icons |
+| **React-Toastify** | Interactive user notifications |
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="https://via.placeholder.com/800x450" alt="Homepage Screenshot" width="800">
+  <p><em>Desktop view of the Digital Tools Marketplace</em></p>
+</div>
+
+---
+
+## 🚀 Getting Started
+
+Project-ti local machine-e run korte nicher steps gulo follow korun:
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/yourusername/digital-tools.git](https://github.com/yourusername/digital-tools.git)
