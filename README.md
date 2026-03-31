@@ -53,20 +53,3 @@ Project-tir main focus chilo **Pixel-Perfect UI** ebong ekta smooth **User Exper
 | **React-Toastify** | Interactive user notifications |
 
 ---
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x450" alt="Homepage Screenshot" width="800">
-  <p><em>Desktop view of the Digital Tools Marketplace</em></p>
-</div>
-
----
-
-## 🚀 Getting Started
-
-Project-ti local machine-e run korte nicher steps gulo follow korun:
-
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/yourusername/digital-tools.git](https://github.com/yourusername/digital-tools.git)
