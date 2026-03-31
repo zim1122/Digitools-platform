@@ -10,7 +10,7 @@
 **A modern, aesthetic, and fully functional digital products marketplace.**
 *Built for speed, styled for elegance, and optimized for developers.*
 
-[Live Demo](#) | [Report Bug](https://github.com/yourusername/digital-tools/issues) | [Request Feature](https://github.com/yourusername/digital-tools/issues)
+[Live Demo](#)
 
 </div>
 
